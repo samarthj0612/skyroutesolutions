@@ -1,10 +1,10 @@
 /*-----------------------------------------------------------------------------------
 
-    Project Name: Innomax - Technology & IT Startup HTML Template
+    Project Name: Skyroute solutions - Technology & IT Startup
     Author: XpressBuddy -->> (https://themeforest.net/user/xpressbuddy)
     Support: support@xpressbuddy.com
-    Description: Innomax - Technology & IT Startup HTML Template
-    Developer: Mohammad Wasim Mia -> contact@xpressbuddy.com
+    Description: Skyroute solutions - Technology & IT Startup
+    Developer: Samarth Jain -> samarthjain.work@gmail.com
     Version: 1.0
 
 -----------------------------------------------------------------------------------
@@ -3204,7 +3204,7 @@ body[data-aos-easing=ease] [data-aos] {
 .header-style-one .stricked-menu .header__wrap .thm-btn--header {
   color: var(--color-white);
   background: var(--color-primary); }
-  .header-style-one .stricked-menu .header__wrap .thm-btn--header span svg path {
+  .header-style-one .stricked-menu .header__wrap .thm-btn--header svg path {
     fill: var(--color-white); }
 .header-style-one .stricked-menu .header__wrap .btn-effect_1::before {
   background: #111112; }
@@ -3399,7 +3399,7 @@ body[data-aos-easing=ease] [data-aos] {
   left: 0;
   right: 0;
   position: fixed;
-  max-width: 1320px;
+  max-width: 1020px;
   margin: auto; }
 
 .mega_menu_wrapper_inner {
@@ -4447,7 +4447,7 @@ body[data-aos-easing=ease] [data-aos] {
   min-height: 356px;
   position: relative;
   overflow: hidden;
-  background: #29292a;
+  background: #0c101c;
   transform: translateX(0);
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -4504,7 +4504,7 @@ body[data-aos-easing=ease] [data-aos] {
     font-size: 26px;
     letter-spacing: 0em;
     color: var(--color-white);
-    border-bottom: 1px solid #d44a00;
+    border-bottom: 1px solid #0f53db;
     -webkit-transition: 0.5s;
     -o-transition: 0.5s;
     transition: 0.5s;
@@ -4777,6 +4777,7 @@ body[data-aos-easing=ease] [data-aos] {
 
 .xb-brand-wrap {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   width: 100%;
   margin: 0 auto;
@@ -10732,7 +10733,7 @@ body[data-aos-easing=ease] [data-aos] {
 
 .roadmap-item {
   padding: 40px 0 54px;
-  max-height: 398px;
+  height: 370px;
   border-radius: 15px;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
@@ -12372,7 +12373,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
   .hero-style-one .hero-right_img {
     position: absolute;
     bottom: 0;
-    right: 15.7%; }
+    right: 10.7%; }
     @media only screen and (min-width: 1200px) and (max-width: 1500px) {
       .hero-style-one .hero-right_img {
         right: 8%;
@@ -13276,7 +13277,7 @@ body .mfp-wrap .mfp-container .mfp-content .mfp-close:hover::before, body .mfp-w
     -o-transition: 0.3s;
     transition: 0.3s; }
     .thm-btn--header span {
-      margin-left: 18px; }
+      margin-left: 6px; }
       .thm-btn--header span svg path {
         -webkit-transition: 0.3s;
         -o-transition: 0.3s;
